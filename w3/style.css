@@ -1,0 +1,35 @@
+body {
+    /* max-width: 750px; */
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+h2 {
+    margin-left: 20px;
+}
+
+section {
+    border: lightblue solid;
+    padding-bottom: 50px;
+}
+
+.pjt {
+    padding-left: 20px;
+    font-size: large;
+    line-height: 3ch;
+}
+
+.pjt a {
+    color: dodgerblue;
+    text-decoration: none;
+}
+
+.pjt a:hover {
+    background-color: aliceblue;
+    color: royalblue;
+}
+
+.imported a {
+    color: darkgray;
+    text-decoration: none;
+}

@@ -1,0 +1,26 @@
+body {
+  width: 100%;
+  margin: 0;
+  background: url("../img/img33.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: #48738c;
+  overflow: hidden;
+}
+
+section {
+  height: 100vh;
+  width: 100%;
+  background: linear-gradient(to top, #292929, transparent);
+  position: absolute;
+  bottom: -10%;
+}
+
+h1 {
+  color: white;
+  size: x-large;
+  position: absolute;
+  bottom: 10%;
+  left: 25%;
+}
+
